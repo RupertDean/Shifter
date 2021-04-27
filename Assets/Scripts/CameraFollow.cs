@@ -3,12 +3,17 @@
 public class CameraFollow : MonoBehaviour
 {
     public Transform target;
-    public Vector3 offset;
 
     void LateUpdate()
     {
-        Vector3 desired = new Vector3(target.position.x + offset.x, 0.4f, offset.z);
-        transform.position = desired;
+        if(target.position.x - transform.position.x > 3f)
+        {
+          transform.position = new Vector3(target.position.x - 3f, 0.4f, -5f);
+        }
+        else if(target.position.x - transform.position.x < -5f)
+        {
+          transform.position = new Vector3(target.position.x + 5f, 0.4f, -5f);
+        }
     }
 
 }

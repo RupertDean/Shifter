@@ -17,14 +17,12 @@ public class PlayerTransform : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+      anim.SetInteger("State", state);
     }
 
     // Update is called once per frame
     void Update()
     {
-        state = anim.GetInteger("State");
-
         if(Input.GetKeyDown(KeyCode.E) && state < 2){
           state ++;
           anim.SetInteger("State", state);
