@@ -38,6 +38,33 @@ TextureImporter:
   - first:
       213: -6401797350558006533
     second: Red Med11
+  - first:
+      213: -8753348034749976300
+    second: Red Med0
+  - first:
+      213: 4977414052619210034
+    second: Red Med1
+  - first:
+      213: -7870919396250233052
+    second: Red Med2
+  - first:
+      213: 8571816169417541820
+    second: Red Med3
+  - first:
+      213: 7888686062231386731
+    second: Red Med4
+  - first:
+      213: 114384794733112113
+    second: Red Med5
+  - first:
+      213: 8557357757042121040
+    second: Red Med6
+  - first:
+      213: 3562119829469204615
+    second: Red Med7
+  - first:
+      213: 6864293982739672830
+    second: Red Med8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -111,13 +138,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Red Med00
+      name: Red Med0
       rect:
         serializedVersion: 2
         x: 1
-        y: 253
-        width: 136
-        height: 40
+        y: 241
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -125,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 58ae6442d4a599c90800000000000000
-      internalID: -7162594444988454267
+      spriteID: 4113d51f65cd58680800000000000000
+      internalID: -8753348034749976300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Med01
+      name: Red Med1
       rect:
         serializedVersion: 2
-        x: 139
-        y: 253
-        width: 136
-        height: 40
+        x: 147
+        y: 241
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,62 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 146bbdce876e82870800000000000000
-      internalID: 8658423690664064577
+      spriteID: 23dc76a95b3531540800000000000000
+      internalID: 4977414052619210034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Med02
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 211
-        width: 136
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 280ac3cc19814ccd0800000000000000
-      internalID: -2538877275454267262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Med03
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 211
-        width: 136
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cc3e09d4d4bc2dfc0800000000000000
-      internalID: -3471488829874969652
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Med04
+      name: Red Med2
       rect:
         serializedVersion: 2
         x: 1
-        y: 169
-        width: 136
-        height: 40
+        y: 181
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dba1ddcd5a1377100800000000000000
-      internalID: 105607704711338685
+      spriteID: 427d5c2d280e4c290800000000000000
+      internalID: -7870919396250233052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Med05
+      name: Red Med3
       rect:
         serializedVersion: 2
-        x: 139
-        y: 169
-        width: 136
-        height: 40
+        x: 147
+        y: 181
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,62 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00fb7882383aa3ba0800000000000000
-      internalID: -6108390160858628352
+      spriteID: cb80512046535f670800000000000000
+      internalID: 8571816169417541820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Med06
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 127
-        width: 136
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 40803b4aeaed9e980800000000000000
-      internalID: -8509025179270969340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Med07
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 127
-        width: 136
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7774b605cdd2e740800000000000000
-      internalID: 5179946359720277882
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Med08
+      name: Red Med4
       rect:
         serializedVersion: 2
         x: 1
-        y: 85
-        width: 136
-        height: 40
+        y: 121
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,20 +236,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5080592db2f2c6e70800000000000000
-      internalID: 9109708011526752261
+      spriteID: b6a70e37d2e3a7d60800000000000000
+      internalID: 7888686062231386731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Med09
+      name: Red Med5
       rect:
         serializedVersion: 2
-        x: 139
-        y: 85
-        width: 136
-        height: 40
+        x: 147
+        y: 121
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,20 +257,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b76405253b6cbb310800000000000000
-      internalID: 1421948580847961723
+      spriteID: 13be5c16d50669100800000000000000
+      internalID: 114384794733112113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Med10
+      name: Red Med6
       rect:
         serializedVersion: 2
         x: 1
-        y: 43
-        width: 136
-        height: 40
+        y: 61
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,20 +278,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d28fb93d3e426800800000000000000
-      internalID: 604131324889891541
+      spriteID: 059dd6c8a87d1c670800000000000000
+      internalID: 8557357757042121040
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Med11
+      name: Red Med7
       rect:
         serializedVersion: 2
-        x: 139
-        y: 43
-        width: 136
-        height: 40
+        x: 147
+        y: 61
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,8 +299,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf204f35a3f3827a0800000000000000
-      internalID: -6401797350558006533
+      spriteID: 78013eaac113f6130800000000000000
+      internalID: 3562119829469204615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Med8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 144
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeac0b320fd24f50800000000000000
+      internalID: 6864293982739672830
       vertices: []
       indices: 
       edges: []

@@ -38,6 +38,33 @@ TextureImporter:
   - first:
       213: 7014983275607481377
     second: Magenta Med11
+  - first:
+      213: 109990462302383762
+    second: Magenta Med0
+  - first:
+      213: -1215117886041693581
+    second: Magenta Med1
+  - first:
+      213: 4384819979868137338
+    second: Magenta Med2
+  - first:
+      213: -1696271543670107074
+    second: Magenta Med3
+  - first:
+      213: -6837625262456333772
+    second: Magenta Med4
+  - first:
+      213: -1982840263937171516
+    second: Magenta Med5
+  - first:
+      213: -1260046992642050012
+    second: Magenta Med6
+  - first:
+      213: -6172171977654472004
+    second: Magenta Med7
+  - first:
+      213: -4585018846932487950
+    second: Magenta Med8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -111,13 +138,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Magenta Med00
+      name: Magenta Med0
       rect:
         serializedVersion: 2
         x: 1
-        y: 253
-        width: 136
-        height: 40
+        y: 241
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -125,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0089da9835d158080800000000000000
-      internalID: -9185903620322912256
+      spriteID: 29ee6322eb3c68100800000000000000
+      internalID: 109990462302383762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Magenta Med01
+      name: Magenta Med1
       rect:
         serializedVersion: 2
-        x: 139
-        y: 253
-        width: 136
-        height: 40
+        x: 147
+        y: 241
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,62 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 89e546a2bb1f23a40800000000000000
-      internalID: 5346601493814599320
+      spriteID: 372e24a78b8032fe0800000000000000
+      internalID: -1215117886041693581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Magenta Med02
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 211
-        width: 136
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7fae02d3c4e0511f0800000000000000
-      internalID: -1074937215452124425
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Magenta Med03
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 211
-        width: 136
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac8a65df1ba2eb0b0800000000000000
-      internalID: -5711080333511317302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Magenta Med04
+      name: Magenta Med2
       rect:
         serializedVersion: 2
         x: 1
-        y: 169
-        width: 136
-        height: 40
+        y: 181
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6472a77a82ae4aae0800000000000000
-      internalID: -1538847712324475066
+      spriteID: a7763183a820adc30800000000000000
+      internalID: 4384819979868137338
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Magenta Med05
+      name: Magenta Med3
       rect:
         serializedVersion: 2
-        x: 139
-        y: 169
-        width: 136
-        height: 40
+        x: 147
+        y: 181
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,62 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f0f16ec2a034c3130800000000000000
-      internalID: 3547784317443120911
+      spriteID: e3490fca402a578e0800000000000000
+      internalID: -1696271543670107074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Magenta Med06
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 127
-        width: 136
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d7a150d9e2e8a0200800000000000000
-      internalID: 147086268696959613
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Magenta Med07
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 127
-        width: 136
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6ddf20046e85db180800000000000000
-      internalID: -9098017926278873642
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Magenta Med08
+      name: Magenta Med4
       rect:
         serializedVersion: 2
         x: 1
-        y: 85
-        width: 136
-        height: 40
+        y: 121
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,20 +236,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7e4e719fcecad530800000000000000
-      internalID: 3880641419827629693
+      spriteID: 43a9d041d00eb11a0800000000000000
+      internalID: -6837625262456333772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Magenta Med09
+      name: Magenta Med5
       rect:
         serializedVersion: 2
-        x: 139
-        y: 85
-        width: 136
-        height: 40
+        x: 147
+        y: 121
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,20 +257,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d9a75bd90889fd30800000000000000
-      internalID: 4465750081430596055
+      spriteID: 4cfdea519498b74e0800000000000000
+      internalID: -1982840263937171516
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Magenta Med10
+      name: Magenta Med6
       rect:
         serializedVersion: 2
         x: 1
-        y: 43
-        width: 136
-        height: 40
+        y: 61
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,20 +278,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40438e63e0fd5fc50800000000000000
-      internalID: 6698505272927204356
+      spriteID: 428754bafe9638ee0800000000000000
+      internalID: -1260046992642050012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Magenta Med11
+      name: Magenta Med7
       rect:
         serializedVersion: 2
-        x: 139
-        y: 43
-        width: 136
-        height: 40
+        x: 147
+        y: 61
+        width: 144
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,8 +299,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12cd3e74f1a3a5160800000000000000
-      internalID: 7014983275607481377
+      spriteID: cb2f843b94a085aa0800000000000000
+      internalID: -6172171977654472004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta Med8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 144
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f03e14b6adbe50c0800000000000000
+      internalID: -4585018846932487950
       vertices: []
       indices: 
       edges: []

@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class PlayerTransform : MonoBehaviour
 {
-
-    public BoxCollider2D boxCollider;
     public Animator anim;
 
     public BoxCollider2D cube;
