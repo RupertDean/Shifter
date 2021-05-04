@@ -13,16 +13,16 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - Player
-  - 
-  - Ceiling
-  - Ground
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Red Player
+  - Magenta Player
+  - Blue Player
+  - Ceiling Red
+  - Ceiling Magenta
+  - Ceiling Blue
+  - Ground Red
+  - Ground Magenta
+  - Ground Blue
+  - GROUND
   - 
   - 
   - 

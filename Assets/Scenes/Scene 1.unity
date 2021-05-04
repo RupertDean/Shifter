@@ -2250,8 +2250,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.017587705, y: 0.34724668}
-  m_Size: {x: 7.5928097, y: 1.3761951}
+  m_Offset: {x: 0.017587708, y: 0.37733653}
+  m_Size: {x: 7.5928116, y: 1.4363748}
   m_Direction: 1
 --- !u!1 &1649392812
 GameObject:
@@ -2632,6 +2632,7 @@ MonoBehaviour:
   m_GroundCheck: {fileID: 318205801}
   m_CeilingCheck: {fileID: 1649392813}
   m_CrouchDisableCollider: {fileID: 0}
+  anim: {fileID: 2028863695}
   OnLandEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -2738,7 +2739,7 @@ GameObject:
   - component: {fileID: 2063807017}
   - component: {fileID: 2063807016}
   - component: {fileID: 2063807019}
-  m_Layer: 14
+  m_Layer: 13
   m_Name: Blue Med00
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2843,8 +2844,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.017587705, y: 0.34724668}
-  m_Size: {x: 7.5928097, y: 1.3761951}
+  m_Offset: {x: 0.017587706, y: 0.36229172}
+  m_Size: {x: 7.5928116, y: 1.4062854}
   m_Direction: 1
 --- !u!1 &2075311971
 GameObject:
