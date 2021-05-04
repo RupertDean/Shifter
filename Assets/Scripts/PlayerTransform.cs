@@ -1,4 +1,3 @@
-﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -30,6 +29,18 @@ public class PlayerTransform : MonoBehaviour
           state --;
           anim.SetInteger("State", state);
         }
+
+        if(Input.GetKey(KeyCode.K)){
+          anim.SetInteger("Colour", 0);
+        }
+        else if(Input.GetKey(KeyCode.L)){
+          anim.SetInteger("Colour", 2);
+        }
+        else{
+          anim.SetInteger("Colour", 1);
+        }
+
+
 
         switch(state)
         {

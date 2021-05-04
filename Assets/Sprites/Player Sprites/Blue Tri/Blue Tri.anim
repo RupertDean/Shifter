@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Red Circle
+  m_Name: Blue Tri
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,10 +20,10 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: -5726953139742331785, guid: 879837427f9324f4e855244ec9a875b2,
+      value: {fileID: -615804977608344093, guid: 0a8d788e7f77bf04fb067975751e87f4,
         type: 3}
     - time: 0.083333336
-      value: {fileID: -7658337997236556221, guid: 879837427f9324f4e855244ec9a875b2,
+      value: {fileID: 2903297341105935625, guid: 0a8d788e7f77bf04fb067975751e87f4,
         type: 3}
     attribute: m_Sprite
     path: 
@@ -44,8 +44,8 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: -5726953139742331785, guid: 879837427f9324f4e855244ec9a875b2, type: 3}
-    - {fileID: -7658337997236556221, guid: 879837427f9324f4e855244ec9a875b2, type: 3}
+    - {fileID: -615804977608344093, guid: 0a8d788e7f77bf04fb067975751e87f4, type: 3}
+    - {fileID: 2903297341105935625, guid: 0a8d788e7f77bf04fb067975751e87f4, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
